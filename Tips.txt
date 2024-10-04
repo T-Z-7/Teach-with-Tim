@@ -10,3 +10,4 @@ git checkout -b (branch name) = make new name branch and  switch branch from mas
 git checkout (branch name) = switch branch
 git merge (branch name) = updates data from one to another branch
 Remove-Item ./.git/index.lock -Force = kill git process
+git pull (branch name) = get data from remote repository 
