@@ -1,3 +1,4 @@
-git add (filename)
+git add (filename) = for specific
+git add .  = add all files 
 git status = git information
 git commit -m "(message)" = for commit
